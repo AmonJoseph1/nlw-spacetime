@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido durante o NLW Spacetime da Rocketseat usando as se
 
 -HTML
 -CSS
--Git e HGithub
+-Git e Github
